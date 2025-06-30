@@ -64,6 +64,7 @@ O padrão Composite é ideal para representar estruturas de dados **hierárquica
 ---
 
 ## 🎬 Apresentação em Vídeo
+https://youtu.be/Dbvga3hsBBo
 
 
 
